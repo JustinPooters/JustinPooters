@@ -21,8 +21,6 @@ Here is some simple info about me!
 
 <h1 align="center">Most used coding languages:</h1>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpooters&layout=compact" />
-
 **Languages and Tools:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -53,6 +51,8 @@ Here is some simple info about me!
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/discord/discord.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpooters&layout=compact" />
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinpooters&show_icons=true" alt="My github stats" /></p>
 
