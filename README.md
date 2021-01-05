@@ -9,7 +9,7 @@ Here is some simple info about me!
 
 - 👑 CEO at CorporalCloud
 
-- 👨‍💻 Learning Xamarin [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://thatgeek.dev)
+- 👨‍💻 Learning Xamarin   [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://thatgeek.dev)
 
 - 💭 Reach me on discord! `ThatGeek#1337`
 
