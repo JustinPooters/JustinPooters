@@ -7,17 +7,22 @@ Love to variate with my devices, Windows, Linux, MacOS, Android, IOS, everything
 
 Here is some simple info about me!
 
-- 👑 CEO at VultexHosting & EaslyHosting
+- 👑 CEO at CorporalCloud
 
-- 👨‍💻 Learning Python
+- 👨‍💻 Learning Xamarin
 
-- 💭 Reach me on discord! [Click here](https://discord.gg/hKGxkfn) or add me: `ThatGeek#1337`
+- 💭 Reach me on discord! `ThatGeek#1337`
 
 - 🔐 Contact me on Telegram! [Click here](https://t.me/ThatGeek) or `ThatGeek`
 
 - 🌐 Check my Website by [clicking here](https://thatgeek.dev)
 
-- 💻 HOA Student at [StudentAanHuis](https://studentaanhuis.nl/hulpopafstand)
+- 💻 HOA/HAH Student at [StudentAanHuis](https://studentaanhuis.nl/)
+
+[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://thatgeek.dev)
+[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://thatgeek.dev)
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://thatgeek.dev)
+[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://thatgeek.dev)
 
 <h1 align="center">Most used coding languages:</h1>
 
