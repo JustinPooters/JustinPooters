@@ -8,7 +8,7 @@ Love to variate with my devices, Windows, Linux, MacOS, Android, IOS, everything
 
 Here is some simple info about me!
 
-- 👑 CEO at CorporalCloud
+- 👑 CEO at CorporalCloud <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpooters&layout=compact&theme=radical" style="float:right" />
 
 - 👨‍💻 Learning Xamarin   [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://thatgeek.dev)
 
@@ -26,8 +26,7 @@ Here is some simple info about me!
 
 - [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://thatgeek.dev)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinpooters&show_icons=true&theme=radical" alt="My github stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpooters&layout=compact&theme=radical" style="float:right" />
-
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinpooters&show_icons=true&theme=radical" alt="My github stats" />
 
 <p align="center">
 <a href="https://twitter.com/thatgeekdev" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wereld03" height="30" width="30" /></a>
