@@ -2,10 +2,10 @@
 <h2 align="center">I'm an all-round developer located in The Netherlands!</h2>
 <h4 align="center">Check out my website https://thatgeek.dev for my recent work.</h4>
 
-<p>Hi! My name is Justin, I'm a 17 year old developer from The Netherlands.
+<p>Hi! My name is Justin, I'm a 17 year old developer from The Netherlands.<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpooters&layout=compact&theme=radical" style="float:right" />
 My main coding languages are C#, JavaScript and Web (html, php, css, ext).
 Love to variate with my devices, Windows, Linux, MacOS, Android, IOS, everything is fun to learn with!
-I'm in the 2nd year of my study, at Friesland College Leeuwarden, i'm studying software development!<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpooters&layout=compact&theme=radical" style="float:right" /></p>
+I'm in the 2nd year of my study, at Friesland College Leeuwarden, i'm studying software development!</p>
 
 Here is some simple info about me!
 
