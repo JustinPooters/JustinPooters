@@ -4,11 +4,12 @@
 
 <p>Hi! My name is Justin, I'm a 17 year old developer from The Netherlands.
 My main coding languages are C#, JavaScript and Web (html, php, css, ext).
-Love to variate with my devices, Windows, Linux, MacOS, Android, IOS, everything is fun to learn with!</p>
+Love to variate with my devices, Windows, Linux, MacOS, Android, IOS, everything is fun to learn with!
+I'm in the 2nd year of my study, at Friesland College Leeuwarden, i'm studying software development!<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpooters&layout=compact&theme=radical" style="float:right" /></p>
 
 Here is some simple info about me!
 
-- 👑 CEO at CorporalCloud <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpooters&layout=compact&theme=radical" style="float:right" />
+- 👑 CEO at CorporalCloud 
 
 - 👨‍💻 Learning Xamarin   [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://thatgeek.dev)
 
