@@ -4,10 +4,7 @@
  
  [![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com) 
 
-<p>Hi! My name is Justin, I'm a 17 year old developer from The Netherlands.
-My main coding languages are C#, JavaScript and Web (html, php, css, ext).
-Love to variate with my devices, Windows, Linux, MacOS, Android, IOS, everything is fun to learn with!
-I'm in the 2nd year of my study, at Friesland College Leeuwarden, i'm studying software development!</p>
+
 
 Here is some simple info about me!
 
