@@ -1,9 +1,10 @@
 <h1 align="center" style="font-weight: bold;">👋 I'm Justin!</h1>
 <h2 align="center">I'm an all-round developer located in The Netherlands!</h2>
+<h4 align="center">Check out my website https://thatgeek.dev for my recent work.</h4>
 
-Hi! My name is Justin, I'm a 17 year old developer from The Netherlands.
+<p>Hi! My name is Justin, I'm a 17 year old developer from The Netherlands.
 My main coding languages are C#, JavaScript and Web (html, php, css, ext).
-Love to variate with my devices, Windows, Linux, MacOS, Android, IOS, everything is fun to learn with!
+Love to variate with my devices, Windows, Linux, MacOS, Android, IOS, everything is fun to learn with!</p>
 
 Here is some simple info about me!
 
