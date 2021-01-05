@@ -26,8 +26,7 @@ Here is some simple info about me!
 
 - [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://thatgeek.dev)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinpooters&show_icons=true&theme=radical" alt="My github stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpooters&layout=compact&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinpooters&show_icons=true&theme=radical" alt="My github stats" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpooters&layout=compact&theme=radical" style="float:right" />
 
 
 <p align="center">
