@@ -9,7 +9,7 @@ Here is some simple info about me!
 
 - 👑 CEO at CorporalCloud
 
-- 👨‍💻 Learning Xamarin
+- 👨‍💻 Learning Xamarin [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://thatgeek.dev)
 
 - 💭 Reach me on discord! `ThatGeek#1337`
 
@@ -19,10 +19,11 @@ Here is some simple info about me!
 
 - 💻 HOA/HAH Student at [StudentAanHuis](https://studentaanhuis.nl/)
 
-[![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://thatgeek.dev)
-[![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://thatgeek.dev)
-[![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://thatgeek.dev)
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://thatgeek.dev)
+- [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://thatgeek.dev)
+
+- [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://thatgeek.dev)
+
+- [![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://thatgeek.dev)
 
 
 <h1 align="center">Most used coding languages:</h1>
