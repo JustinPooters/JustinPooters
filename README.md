@@ -21,8 +21,9 @@ Here is some simple info about me!
 
 [![forthebadge](https://forthebadge.com/images/badges/powered-by-coffee.svg)](https://thatgeek.dev)
 [![forthebadge](https://forthebadge.com/images/badges/works-on-my-machine.svg)](https://thatgeek.dev)
-[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://thatgeek.dev)
 [![forthebadge](https://forthebadge.com/images/badges/0-percent-optimized.svg)](https://thatgeek.dev)
+[![forthebadge](https://forthebadge.com/images/badges/not-a-bug-a-feature.svg)](https://thatgeek.dev)
+
 
 <h1 align="center">Most used coding languages:</h1>
 
