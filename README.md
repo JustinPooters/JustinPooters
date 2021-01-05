@@ -4,7 +4,7 @@
  
  [![forthebadge](https://forthebadge.com/images/badges/contains-17-coffee-cups.svg)](https://forthebadge.com) 
 
-
+<br><br>
 
 Here is some simple info about me!
 
@@ -19,6 +19,8 @@ Here is some simple info about me!
 - 🌐 Check my Website by [clicking here](https://thatgeek.dev)
 
 - 💻 HOA/HAH Student at [StudentAanHuis](https://studentaanhuis.nl/)
+
+<br><br>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=justinpooters&show_icons=true&theme=radical" alt="My github stats" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=justinpooters&layout=compact&theme=radical" style="float:right" />
