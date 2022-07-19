@@ -2,11 +2,11 @@
 
 ## I'm a Developer, Nerd, Student and Tech Enthousiast!!
 
-- 📑 Learning GoLang & SQL (MSSQL)
+- 📑 Working on [Hostvio](https://hostvio.net)
 - 🌱 My private projects are messy 🤣
 - 👨‍🎓 Studying Software Development (school)
 - 👯 Always trying to contribute 
-- ⚡ Favorite Quote: Programming is a skill best acquired by practice and example rather than from books.
+- ⚡ Favorite Quote: "Programming is a skill best acquired by practice and example rather than from books".
 
 ### Connect with me:
 
