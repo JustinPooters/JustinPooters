@@ -1,45 +1,55 @@
-### Hi there, I'm [Justin](https://justinp.dev) 👋 
+<h1 align="center">
+  <img src="header.svg" alt="Header" />
 
-## I'm a Developer, Nerd, Student and Tech Enthousiast!!
+</h1>
 
-- 📑 Working on [Hostvio](https://hostvio.net)
-- 🌱 My private projects are messy 🤣
-- 👨‍🎓 Studying Software Development (school)
-- 👯 Always trying to contribute 
-- ⚡ Favorite Quote: "Programming is a skill best acquired by practice and example rather than from books".
+## Hey! 👋
+I'm Justin, a 20 years old software developer from The Netherlands.
 
-### Connect with me:
+- 👨‍💻 Founder of [Govy](https://govy.nl)
+- 🖥️ Founder of [SQ3](https://sq3.nl) ([We run Hostvio!](https://hostvio.net))
+- 👥 System Administrator at [NoordGasTransport](https://noordgastransport.nl)
+-  ⚡ Favorite Quote: "Programming is a skill best acquired by practice and example rather than from books".
 
-[<img align="left" alt="justinp.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://justinp.dev)
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/justinpooters)
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://linkedin.com/in/justinpooters)
-[<img align="left" alt="Discord" width="22px" src="https://www.freeiconspng.com/uploads/discord-black-icon-1.png" />](https://discord.com/users/731583144444166153)
+## Skills
+- 👨‍💻 Javascript, C#, Python
+- ⚙️ Bootstrap, React
+- 👁️ CSS
+- 💽 MySQL, Microsoft SQL
++ a lot more :D
 
-<br />
+## Contact
+<p align="left">
+<a href="https://twitter.com/JustinPooters" target="blank"><img align="center" src="https://i.pinimg.com/originals/ed/54/51/ed5451961869a97b434b185f2fe064cc.webp" alt="justinpooters" height="30" width="30" /></a>    
+<a href="https://linkedin.com/in/JustinPooters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justinpooters" height="30" width="40" /></a>
+<a href="https://instagram.com/JustinPooters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justinpooters" height="30" width="40" /></a>
+<a href="https://discord.com/users/731583144444166153" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="justinpooters" height="30" width="30" /></a>
 
-### Languages and Tools:
+## Tools:
+### Languages
+<img src="https://img.shields.io/badge/-NodeJS-18181b?style=for-the-badge&logo=nodedotjs&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-Csharp-18181b?style=for-the-badge&logo=csharp&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-Python-18181b?style=for-the-badge&logo=python&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-MySQL-18181b?style=for-the-badge&logo=mysql&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-Microsoft SQL-18181b?style=for-the-badge&logo=microsoftsqlserver&logoColor=F43F5E" />
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Rider" width="26px" src="https://codeopinion.com/wp-content/uploads/2017/08/logo.png" />
+### IDE's
+<img src="https://img.shields.io/badge/-Rider-18181b?style=for-the-badge&logo=rider&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-Datagrip-18181b?style=for-the-badge&logo=datagrip&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-Writerside-18181b?style=for-the-badge&logo=jetbrains&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-Vim-18181b?style=for-the-badge&logo=vim&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-Fleet-18181b?style=for-the-badge&logo=jetbrains&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-webstorm-18181b?style=for-the-badge&logo=webstorm&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-Visual Studio code-18181b?style=for-the-badge&logo=visualstudio&logoColor=F43F5E" />
 
-<img align="left" alt="Visual Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" />
-<img align="left" alt="Linux" width="26px" src="https://iconarchive.com/download/i45763/tatice/operating-systems/Linux.ico" />
-<img align="left" alt="Windows" width="26px" src="https://www.freeiconspng.com/thumbs/windows-icon-png/system-windows-icon-png-4.png" />
-<img align="left" alt="Macintosh" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Icon-Mac.svg/1024px-Icon-Mac.svg.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />
-<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+### Micellaneous
+<img src="https://img.shields.io/badge/-MacOS-18181b?style=for-the-badge&logo=apple&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-Windows-18181b?style=for-the-badge&logo=windows&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-git-18181b?style=for-the-badge&logo=git&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-Travis ci-18181b?style=for-the-badge&logo=travis&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-ZSH-18181b?style=for-the-badge&logo=iterm2&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-Oh My ZSH-18181b?style=for-the-badge&logo=iterm2&logoColor=F43F5E" />
+<img src="https://img.shields.io/badge/-Oh My ZSH-18181b?style=for-the-badge&logo=iterm2&logoColor=F43F5E" />
 
-<br />
-<br />
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=justinpooters&show_icons=true&theme=radical" alt="My github stats" />
+<br><br><br><br><br>
