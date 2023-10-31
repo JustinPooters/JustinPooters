@@ -27,11 +27,11 @@ I'm Justin, a 20 years old software developer from The Netherlands.
 
 ## Tools:
 ### Languages
-<img src="https://img.shields.io/badge/-NodeJS-18181b?style=for-the-badge&logo=nodedotjs&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Csharp-18181b?style=for-the-badge&logo=csharp&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Python-18181b?style=for-the-badge&logo=python&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-MySQL-18181b?style=for-the-badge&logo=mysql&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Microsoft SQL-18181b?style=for-the-badge&logo=microsoftsqlserver&logoColor=F43F5E" />
+<img align="center" src="https://img.shields.io/badge/-NodeJS-18181b?style=for-the-badge&logo=nodedotjs&logoColor=F43F5E" />
+<img align="center" src="https://img.shields.io/badge/-Csharp-18181b?style=for-the-badge&logo=csharp&logoColor=F43F5E" />
+<img align="center" src="https://img.shields.io/badge/-Python-18181b?style=for-the-badge&logo=python&logoColor=F43F5E" />
+<img align="center" src="https://img.shields.io/badge/-MySQL-18181b?style=for-the-badge&logo=mysql&logoColor=F43F5E" />
+<img align="center" src="https://img.shields.io/badge/-Microsoft SQL-18181b?style=for-the-badge&logo=microsoftsqlserver&logoColor=F43F5E" />
 
 ### IDE's
 <img src="https://img.shields.io/badge/-Rider-18181b?style=for-the-badge&logo=rider&logoColor=F43F5E" />
