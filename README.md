@@ -48,12 +48,13 @@ I'm Justin, a 20 years old software developer from The Netherlands.
 </p>
 
 ### Micellaneous
+<p align="left">
 <img src="https://img.shields.io/badge/-MacOS-18181b?style=for-the-badge&logo=apple&logoColor=F43F5E" />
 <img src="https://img.shields.io/badge/-Windows-18181b?style=for-the-badge&logo=windows&logoColor=F43F5E" />
 <img src="https://img.shields.io/badge/-git-18181b?style=for-the-badge&logo=git&logoColor=F43F5E" />
 <img src="https://img.shields.io/badge/-Travis ci-18181b?style=for-the-badge&logo=travis&logoColor=F43F5E" />
 <img src="https://img.shields.io/badge/-ZSH-18181b?style=for-the-badge&logo=iterm2&logoColor=F43F5E" />
 <img src="https://img.shields.io/badge/-Oh My ZSH-18181b?style=for-the-badge&logo=iterm2&logoColor=F43F5E" />
-
+</p>
 
 <br><br>
