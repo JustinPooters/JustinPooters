@@ -8,7 +8,7 @@ I'm Justin, a 20 years old software developer from The Netherlands.
 
 - 👨‍💻 Founder of [Govy](https://govy.nl)
 - 🖥️ Founder of [SQ3](https://sq3.nl) ([We run Hostvio!](https://hostvio.net))
-- 👥 System Administrator at [NoordGasTransport](https://noordgastransport.nl)
+- 👥 IT Expert at [Provinsje Fryslân](https://fryslan.frl)
 -  ⚡ Favorite Quote: "Programming is a skill best acquired by practice and example rather than from books".
 
 ## Skills
