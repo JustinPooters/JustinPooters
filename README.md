@@ -3,13 +3,13 @@
 
 </h1>
 
-## Hey! 👋
+<h1>Hey! 👋</h1>
 I'm Justin, a 20 years old software developer from The Netherlands.
 
 - 👨‍💻 Founder of [Govy](https://govy.nl)
 - 🖥️ Founder of [SQ3](https://sq3.nl) ([We run Hostvio!](https://hostvio.net))
 - 👥 IT Expert at [Provinsje Fryslân](https://fryslan.frl)
--  ⚡ Favorite Quote: "Programming is a skill best acquired by practice and example rather than from books".
+- ⚡ Favorite Quote: "Programming is a skill best acquired by practice and example rather than from books".
 
 ## Skills
 - 👨‍💻 Javascript, C#, Python
@@ -18,15 +18,7 @@ I'm Justin, a 20 years old software developer from The Netherlands.
 - 💽 MySQL, Microsoft SQL
 + a lot more :D
 
-## Contact
-<p align="left">
-<a href="https://twitter.com/JustinPooters" target="blank"><img align="center" src="https://i.pinimg.com/originals/ed/54/51/ed5451961869a97b434b185f2fe064cc.webp" alt="justinpooters" height="30" width="30" /></a>    
-<a href="https://linkedin.com/in/JustinPooters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="justinpooters" height="30" width="40" /></a>
-<a href="https://instagram.com/JustinPooters" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="justinpooters" height="30" width="40" /></a>
-<a href="https://discord.com/users/731583144444166153" target="blank"><img align="center" src="https://www.freepnglogos.com/uploads/discord-logo-png/concours-discord-cartes-voeux-fortnite-france-6.png" alt="justinpooters" height="30" width="30" /></a>
-</p>
-
-## Tools:
+## Tools
 ### Languages
 <p align="left">
 <img src="https://img.shields.io/badge/-NodeJS-18181b?style=for-the-badge&logo=nodedotjs&logoColor=F43F5E" />
@@ -55,6 +47,14 @@ I'm Justin, a 20 years old software developer from The Netherlands.
 <img src="https://img.shields.io/badge/-Travis ci-18181b?style=for-the-badge&logo=travis&logoColor=F43F5E" />
 <img src="https://img.shields.io/badge/-ZSH-18181b?style=for-the-badge&logo=iterm2&logoColor=F43F5E" />
 <img src="https://img.shields.io/badge/-Oh My ZSH-18181b?style=for-the-badge&logo=iterm2&logoColor=F43F5E" />
+</p>
+
+## Contact
+<p align="left">
+<a href="https://twitter.com/JustinPooters" target="blank"><img align="center" src="https://i.ibb.co/C93YkKk/logo-white.png" alt="justinpooters" height="30" width="30" /></a>    
+<a href="https://linkedin.com/in/JustinPooters" target="blank"><img align="center" src="https://i.ibb.co/ZcxS75K/inwhite.png" alt="justinpooters" height="30" width="33" /></a>
+<a href="https://instagram.com/JustinPooters" target="blank"><img align="center" src="https://i.ibb.co/xDLRSb6/Instagram-Glyph-White.png" alt="justinpooters" height="30" width="30" /></a>
+<a href="https://discord.com/users/731583144444166153" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" alt="justinpooters" height="30" width="30" /></a>
 </p>
 
 <br><br>
