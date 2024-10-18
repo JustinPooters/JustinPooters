@@ -4,7 +4,7 @@
 </h1>
 
 <h1>Hey! 👋</h1>
-I'm Justin, a 20 years old software developer from The Netherlands.
+I'm Justin, a 21 year old software developer from The Netherlands.
 
 - 🖥️ Founder of [SQ3](https://sq3.nl) ([We run Hostvio!](https://hostvio.net))
 - 👥 Young Professional Software Engineer at [ilionx](https://ilionx.com)
