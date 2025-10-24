@@ -1,8 +1,7 @@
-<!-- Profile README for github.com/justinpooters -->
 <h1 align="center">Hey there 👋 I'm Justin!</h1>
 
 <p align="center">
-  <b>💻 Developer · 🧠 Problem Solver · ☕ Coffee Enthusiast</b><br>
+  <b>💻 Software Developer @ <a href="https://www.ilionx.com" target="_blank" style="color:#E8003D;font-weight:bold;">ilionx</a> · 🧠 Builder · ☕ Coffee Enthusiast</b><br>
   <em>I turn caffeine and ideas into code that (usually) works 🎯</em>
 </p>
 
@@ -16,7 +15,7 @@
     <img src="https://img.shields.io/github/stars/justinpooters?label=Stars&style=social" alt="GitHub Stars" />
   </a>
   <a href="https://justinp.dev">
-    <img src="https://img.shields.io/badge/Website-justinp.dev-blue?logo=google-chrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/🌐%20Website-justinp.dev-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
   </a>
 </p>
 
@@ -24,26 +23,27 @@
 
 ### 🌍 About Me
 
-Hey, I’m **Justin Pooters** — a software engineer from 🇳🇱  
-I love creating tools and systems that make life for other devs just a little easier (and a lot more fun 😄).  
+Hey! I’m **Justin Pooters**, a software engineer from 🇳🇱 **the Netherlands**, currently working at <a href="https://www.ilionx.com" style="color:#E8003D;font-weight:bold;">ilionx</a> as a **Software Developer**.  
 
-💬 I’m currently working with **C#**, **Node.js**, **TypeScript**, and **Angular**, and I’m diving deeper into **DevOps automation** and **observability**.
+I’m passionate about designing smart solutions, automating boring stuff, and helping teams build things that *just work*.  
+Most days, you’ll find me working on backend APIs or frontend apps — and occasionally breaking something just to fix it better 😅.  
 
-When I’m not coding, you’ll probably find me:
-- tweaking my **dotfiles** (yes, again)
-- building random prototypes that may or may not work 😂
-- or explaining to my coffee machine what “CI/CD” means ☕
+🧩 **What I enjoy most:**
+- Building clean, maintainable systems that actually scale  
+- Tinkering with Angular + .NET Aspire setups  
+- Exploring DevOps, CI/CD, and observability tools  
+- Turning late-night ideas into working prototypes 🚀  
 
 ---
 
-### 🧰 Tech Toolbox
+### 🧠 Tech Toolbox
 
-| 💻 Category | ⚙️ Tools & Tech |
-|-------------|----------------|
-| **Backend** | C# · Node.js · TypeScript · Express · REST APIs |
+| Category | Tools & Tech |
+|-----------|---------------|
+| **Backend** | C# · Node.js · TypeScript · .NET · C# · REST APIs |
 | **Frontend** | Angular · HTML · CSS · Tailwind |
 | **DevOps** | Docker · GitHub Actions · CI/CD · Monitoring |
-| **Other Stuff** | Bash · OpenSSL · MySQL · Linux · “Creative debugging” 🧠 |
+| **Other** | Bash · OpenSSL · MySQL · Linux · Debugging wizardry 🪄 |
 
 ---
 
@@ -51,36 +51,36 @@ When I’m not coding, you’ll probably find me:
 
 | ⭐ Project | 🔍 What it does |
 |------------|----------------|
-| [**C99-Node-Wrapper**](https://github.com/justinpooters/C99-Node-Wrapper) | A clean Node.js wrapper for the c99.nl API — simple, modern, typed. |
-| [**Requestlogger**](https://github.com/justinpooters/Requestlogger) | Middleware that logs requests beautifully ✨ (and safely!). |
+| [**C99-Node-Wrapper**](https://github.com/justinpooters/C99-Node-Wrapper) | A simple, modern Node.js wrapper for the c99.nl API. |
+| [**Requestlogger**](https://github.com/justinpooters/Requestlogger) | Middleware that logs requests cleanly and safely ✨ |
 | [**dotfiles**](https://github.com/justinpooters/dotfiles) | My personal dev setup — tuned for speed ⚡ and sanity. |
 
-🧪 *More fun stuff in my pinned repositories below!*
+🧩 *Check my pinned repos below for more projects!*
 
 ---
 
-### 🏆 GitHub Stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=justinpooters&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=justinpooters&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=justinpooters&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=justinpooters&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ### ✨ Fun Facts
 
-- 🔧 I break things just to see if I can fix them better.  
-- 🧩 I enjoy building “developer toys” that accidentally become production tools.  
-- 🐧 Linux user by choice, night coder by habit.  
-- 🎶 Currently learning music production on the side (yes, it’s as chaotic as it sounds).  
+- 🧑‍💻 Software Developer at <a href="https://www.ilionx.com" style="color:#E8003D;font-weight:bold;">ilionx</a> (and occasionally the unofficial meme curator).  
+- ☕ Powered by caffeine and curiosity.  
+- 🎶 Loving music.  
+- 🚗 Probably driving somewhere if not near a keyboard.  
 
 ---
 
-### 📫 Let’s Connect!
+### 🤝 Let’s Connect!
 
 <p align="center">
-  <a href="https://justinp.dev"><img src="https://img.shields.io/badge/🌐%20Website-justinp.dev-blue?style=for-the-badge" /></a>
+  <a href="https://justinp.dev"><img src="https://img.shields.io/badge/Website-justinp.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
   <a href="https://x.com/justinpooters"><img src="https://img.shields.io/badge/Twitter-@justinpooters-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/justinpooters/"><img src="https://img.shields.io/badge/LinkedIn-Justin%20Pooters-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
