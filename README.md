@@ -1,6 +1,9 @@
 <!-- Profile README for github.com/justinpooters -->
+<h1 align="center">Hey there 👋 I'm Justin!</h1>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Justin+👋;Developer+%7C+Builder+%7C+Problem+Solver;I+turn+coffee+%E2%98%95%EF%B8%8F+into+clean+code+💻" alt="Typing SVG" />
+  <b>💻 Developer · 🧠 Problem Solver · ☕ Coffee Enthusiast</b><br>
+  <em>I turn caffeine and ideas into code that (usually) works 🎯</em>
 </p>
 
 ---
