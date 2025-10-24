@@ -1,59 +1,90 @@
-<h1 align="center">
-  <img src="header.svg" alt="Header" />
-
-</h1>
-
-<h1>Hey! 👋</h1>
-I'm Justin, a 21 year old software developer from The Netherlands.
-
-- 🖥️ Founder of [SQ3](https://sq3.nl) ([We run Hostvio!](https://hostvio.net))
-- 👥 Young Professional Software Engineer at [ilionx](https://ilionx.com)
-- ⚡ Favorite Quote: "Programming is a skill best acquired by practice and example rather than from books".
-
-## Skills
-- 👨‍💻 Javascript, C#, Python
-- ⚙️ Bootstrap, React
-- 👁️ CSS
-- 💽 MySQL, Microsoft SQL
-+ a lot more :D
-
-## Tools
-### Languages
-<p align="left">
-<img src="https://img.shields.io/badge/-NodeJS-18181b?style=for-the-badge&logo=nodedotjs&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Csharp-18181b?style=for-the-badge&logo=csharp&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Python-18181b?style=for-the-badge&logo=python&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-MySQL-18181b?style=for-the-badge&logo=mysql&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Microsoft SQL-18181b?style=for-the-badge&logo=microsoftsqlserver&logoColor=F43F5E" />
+<!-- Profile README for github.com/justinpooters -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&center=true&vCenter=true&width=550&lines=Hey+there!+I'm+Justin+👋;Developer+%7C+Builder+%7C+Problem+Solver;I+turn+coffee+%E2%98%95%EF%B8%8F+into+clean+code+💻" alt="Typing SVG" />
 </p>
 
-### IDE's
-<p align="left">
-<a><img src="https://img.shields.io/badge/-Rider-18181b?style=for-the-badge&logo=rider&logoColor=F43F5E" /></a>
-<img src="https://img.shields.io/badge/-Datagrip-18181b?style=for-the-badge&logo=datagrip&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Writerside-18181b?style=for-the-badge&logo=jetbrains&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Vim-18181b?style=for-the-badge&logo=vim&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Fleet-18181b?style=for-the-badge&logo=jetbrains&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-webstorm-18181b?style=for-the-badge&logo=webstorm&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Visual Studio code-18181b?style=for-the-badge&logo=visualstudio&logoColor=F43F5E" />
+---
+
+<p align="center">
+  <a href="https://github.com/justinpooters">
+    <img src="https://img.shields.io/github/followers/justinpooters?label=Followers&style=social" alt="GitHub Followers" />
+  </a>
+  <a href="https://github.com/justinpooters?tab=repositories">
+    <img src="https://img.shields.io/github/stars/justinpooters?label=Stars&style=social" alt="GitHub Stars" />
+  </a>
+  <a href="https://justinp.dev">
+    <img src="https://img.shields.io/badge/Website-justinp.dev-blue?logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
 </p>
 
-### Micellaneous
-<p align="left">
-<img src="https://img.shields.io/badge/-MacOS-18181b?style=for-the-badge&logo=apple&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Windows-18181b?style=for-the-badge&logo=windows&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-git-18181b?style=for-the-badge&logo=git&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Travis ci-18181b?style=for-the-badge&logo=travis&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-ZSH-18181b?style=for-the-badge&logo=iterm2&logoColor=F43F5E" />
-<img src="https://img.shields.io/badge/-Oh My ZSH-18181b?style=for-the-badge&logo=iterm2&logoColor=F43F5E" />
+---
+
+### 🌍 About Me
+
+Hey, I’m **Justin Pooters** — a software engineer from 🇳🇱  
+I love creating tools and systems that make life for other devs just a little easier (and a lot more fun 😄).  
+
+💬 I’m currently working with **Node.js**, **TypeScript**, and **Angular**, and I’m diving deeper into **DevOps automation** and **observability**.
+
+When I’m not coding, you’ll probably find me:
+- tweaking my **dotfiles** (yes, again)
+- building random prototypes that may or may not work 😂
+- or explaining to my coffee machine what “CI/CD” means ☕
+
+---
+
+### 🧰 Tech Toolbox
+
+| 💻 Category | ⚙️ Tools & Tech |
+|-------------|----------------|
+| **Backend** | Node.js · TypeScript · Express · REST APIs |
+| **Frontend** | Angular · HTML · CSS · Tailwind |
+| **DevOps** | Docker · GitHub Actions · CI/CD · Monitoring |
+| **Other Stuff** | Bash · OpenSSL · MySQL · Linux · “Creative debugging” 🧠 |
+
+---
+
+### 🚀 Featured Projects
+
+| ⭐ Project | 🔍 What it does |
+|------------|----------------|
+| [**C99-Node-Wrapper**](https://github.com/justinpooters/C99-Node-Wrapper) | A clean Node.js wrapper for the c99.nl API — simple, modern, typed. |
+| [**Requestlogger**](https://github.com/justinpooters/Requestlogger) | Middleware that logs requests beautifully ✨ (and safely!). |
+| [**Angular-ilionx**](https://github.com/justinpooters/angular-ilionx) | Angular examples & training snippets for junior devs. |
+| [**dotfiles**](https://github.com/justinpooters/dotfiles) | My personal dev setup — tuned for speed ⚡ and sanity. |
+
+🧪 *More fun stuff in my pinned repositories below!*
+
+---
+
+### 🏆 GitHub Stats
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=justinpooters&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=justinpooters&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
-## Contact
-<p align="left">
-<a href="https://twitter.com/JustinPooters" target="blank"><img align="center" src="https://i.ibb.co/C93YkKk/logo-white.png" alt="justinpooters" height="30" width="30" /></a>    
-<a href="https://linkedin.com/in/JustinPooters" target="blank"><img align="center" src="https://i.ibb.co/ZcxS75K/inwhite.png" alt="justinpooters" height="30" width="33" /></a>
-<a href="https://instagram.com/JustinPooters" target="blank"><img align="center" src="https://i.ibb.co/xDLRSb6/Instagram-Glyph-White.png" alt="justinpooters" height="30" width="30" /></a>
-<a href="https://discord.com/users/731583144444166153" target="blank"><img align="center" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/discord-white-icon.png" alt="justinpooters" height="30" width="30" /></a>
+---
+
+### ✨ Fun Facts
+
+- 🔧 I break things just to see if I can fix them better.  
+- 🧩 I enjoy building “developer toys” that accidentally become production tools.  
+- 🐧 Linux user by choice, night coder by habit.  
+- 🎶 Currently learning music production on the side (yes, it’s as chaotic as it sounds).  
+
+---
+
+### 📫 Let’s Connect!
+
+<p align="center">
+  <a href="https://justinp.dev"><img src="https://img.shields.io/badge/🌐%20Website-justinp.dev-blue?style=for-the-badge" /></a>
+  <a href="https://x.com/justinpooters"><img src="https://img.shields.io/badge/Twitter-@justinpooters-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/justinpooters/"><img src="https://img.shields.io/badge/LinkedIn-Justin%20Pooters-blue?style=for-the-badge&logo=linkedin" /></a>
 </p>
 
-<br><br>
+---
+
+<p align="center">
+  💬 *“Ship it. If it breaks, we’ll learn something new.”* 🚀
+</p>
