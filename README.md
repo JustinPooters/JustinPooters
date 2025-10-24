@@ -3,7 +3,6 @@
 <p align="center">
   <b>💻 Software Developer @ <a href="https://www.ilionx.com" target="_blank" style="color:#E8003D;font-weight:bold;">ilionx</a> · 🧠 Builder · ☕ Coffee Enthusiast</b><br>
   <em>I turn caffeine and ideas into code that (usually) works 🎯</em>
-  <img src="https://img.shields.io/badge/❤️%20Proud%20to%20be%20part%20of%20ilionx-E8003D?style=for-the-badge" alt="Proud to be part of ilionx" />
 </p>
 
 ---
