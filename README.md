@@ -27,7 +27,7 @@
 Hey, I’m **Justin Pooters** — a software engineer from 🇳🇱  
 I love creating tools and systems that make life for other devs just a little easier (and a lot more fun 😄).  
 
-💬 I’m currently working with **Node.js**, **TypeScript**, and **Angular**, and I’m diving deeper into **DevOps automation** and **observability**.
+💬 I’m currently working with **C#**, **Node.js**, **TypeScript**, and **Angular**, and I’m diving deeper into **DevOps automation** and **observability**.
 
 When I’m not coding, you’ll probably find me:
 - tweaking my **dotfiles** (yes, again)
@@ -40,7 +40,7 @@ When I’m not coding, you’ll probably find me:
 
 | 💻 Category | ⚙️ Tools & Tech |
 |-------------|----------------|
-| **Backend** | Node.js · TypeScript · Express · REST APIs |
+| **Backend** | C# · Node.js · TypeScript · Express · REST APIs |
 | **Frontend** | Angular · HTML · CSS · Tailwind |
 | **DevOps** | Docker · GitHub Actions · CI/CD · Monitoring |
 | **Other Stuff** | Bash · OpenSSL · MySQL · Linux · “Creative debugging” 🧠 |
@@ -53,7 +53,6 @@ When I’m not coding, you’ll probably find me:
 |------------|----------------|
 | [**C99-Node-Wrapper**](https://github.com/justinpooters/C99-Node-Wrapper) | A clean Node.js wrapper for the c99.nl API — simple, modern, typed. |
 | [**Requestlogger**](https://github.com/justinpooters/Requestlogger) | Middleware that logs requests beautifully ✨ (and safely!). |
-| [**Angular-ilionx**](https://github.com/justinpooters/angular-ilionx) | Angular examples & training snippets for junior devs. |
 | [**dotfiles**](https://github.com/justinpooters/dotfiles) | My personal dev setup — tuned for speed ⚡ and sanity. |
 
 🧪 *More fun stuff in my pinned repositories below!*
