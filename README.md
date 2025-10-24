@@ -88,5 +88,5 @@ When I’m not coding, you’ll probably find me:
 ---
 
 <p align="center">
-  💬 *“Ship it. If it breaks, we’ll learn something new.”* 🚀
+  💬 _“Ship it. If it breaks, we’ll learn something new.”_ 🚀
 </p>
