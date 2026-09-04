@@ -1,92 +1,60 @@
-<h1 align="center">Hey there 👋 I'm Justin!</h1>
-
 <p align="center">
-  <b>💻 Software Developer @ <a href="https://www.ilionx.com" target="_blank" style="color:#E8003D;font-weight:bold;">ilionx</a> · 🧠 Builder · ☕ Coffee Enthusiast</b><br>
-  <em>I turn caffeine and ideas into code that (usually) works 🎯</em>
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/justinpooters">
-    <img src="https://img.shields.io/github/followers/justinpooters?label=Followers&style=social" alt="GitHub Followers" />
-  </a>
-  <a href="https://github.com/justinpooters?tab=repositories">
-    <img src="https://img.shields.io/github/stars/justinpooters?label=Stars&style=social" alt="GitHub Stars" />
-  </a>
-  <a href="https://justinp.dev">
-    <img src="https://img.shields.io/badge/🌐%20Website-justinp.dev-blue?style=flat&logo=google-chrome&logoColor=white" alt="Website" />
+  <a href="https://justinp.dev/">
+    <img src="https://justinp.dev/assets/og.png" alt="Justin Pooters - IT professional, software developer, always curious" width="100%" />
   </a>
 </p>
 
----
+# Hey, I'm Justin! 👋☕
 
-### 🌍 About Me
+### 🖥️ IT professional · ☁️ Infrastructure specialist · 💻 Software developer
 
-Hey! I’m **Justin Pooters**, a software engineer from 🇳🇱 **the Netherlands**, currently working at <a href="https://www.ilionx.com" style="color:#E8003D;font-weight:bold;">ilionx</a> as a **Software Developer**.  
+I keep complicated IT understandable, dependable, and useful.
 
-I’m passionate about designing smart solutions, automating boring stuff, and helping teams build things that *just work*.  
-Most days, you’ll find me working on backend APIs or frontend apps — and occasionally breaking something just to fix it better 😅.  
+I'm based in the Netherlands and currently work across workplace IT, infrastructure, Microsoft cloud services, networks, and automation. I also have professional experience maintaining production applications built with **C#**, **.NET**, Angular, REST APIs, and Azure—which means I rarely stop at _"that's just how the system works."_
 
-🧩 **What I enjoy most:**
-- Building clean, maintainable systems that actually scale  
-- Tinkering with Angular + .NET Aspire setups  
-- Exploring DevOps, CI/CD, and observability tools  
-- Turning late-night ideas into working prototypes 🚀  
+> Still curious. Still building. Usually caffeinated.
 
----
+[![Portfolio](https://img.shields.io/badge/Portfolio-justinp.dev-ff3838?style=for-the-badge&logo=firefoxbrowser&logoColor=white)](https://justinp.dev/)
+[![Projects](https://img.shields.io/badge/Projects-JXHQ-111827?style=for-the-badge&logo=github&logoColor=white)](https://jxhq.net/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/justinpooters)
+[![Email](https://img.shields.io/badge/Email-Say_hello-d9ff43?style=for-the-badge&logo=maildotru&logoColor=111827)](mailto:site@pooters.me)
 
-### 🧠 Tech Toolbox
+## 🧰 What I'm working with
 
-| Category | Tools & Tech |
-|-----------|---------------|
-| **Backend** | C# · Node.js · TypeScript · .NET · C# · REST APIs |
-| **Frontend** | Angular · HTML · CSS · Tailwind |
-| **DevOps** | Docker · GitHub Actions · CI/CD · Monitoring |
-| **Other** | Bash · OpenSSL · MySQL · Linux · Debugging wizardry 🪄 |
-
----
-
-### 🚀 Featured Projects
-
-| ⭐ Project | 🔍 What it does |
-|------------|----------------|
-| [**C99-Node-Wrapper**](https://github.com/justinpooters/C99-Node-Wrapper) | A simple, modern Node.js wrapper for the c99.nl API. |
-| [**Requestlogger**](https://github.com/justinpooters/Requestlogger) | Middleware that logs requests cleanly and safely ✨ |
-| [**dotfiles**](https://github.com/justinpooters/dotfiles) | My personal dev setup — tuned for speed ⚡ and sanity. |
-
-🧩 *Check my pinned repos below for more projects!*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=justinpooters&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=justinpooters&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,nodejs,ts,js,python,powershell,html,css,tailwind,azure,docker,kubernetes,linux,windows,git,github,mysql,postgres&perline=10" alt="C#, .NET, Node.js, TypeScript, JavaScript, Python, PowerShell, HTML, CSS, Tailwind, Azure, Docker, Kubernetes, Linux, Windows, Git, GitHub, MySQL, and PostgreSQL" />
 </p>
 
----
+```text
+Workplace     Microsoft 365 · Entra ID · Intune · Autopilot · Active Directory
+Development   C# · .NET · Node.js · TypeScript · JavaScript · PowerShell · Python
+Cloud & Ops   Azure · Docker · CapRover · Linux · Windows Server · CI/CD
+Networks      TCP/IP · DNS · DHCP · VPN · Firewalls · Switching
+```
 
-### ✨ Fun Facts
+## 🚀 Things I've built
 
-- 🧑‍💻 Software Developer at <a href="https://www.ilionx.com" style="color:#E8003D;font-weight:bold;">ilionx</a> (and occasionally the unofficial meme curator).  
-- ☕ Powered by caffeine and curiosity.  
-- 🎶 Loving music.  
-- 🚗 Probably driving somewhere if not near a keyboard.  
+| Project | What it is | Built with |
+| --- | --- | --- |
+| 🏢 **Production .NET applications** <br><sub>Professional · private source</sub> | Maintained and upgraded live applications, resolved incidents and bugs, managed releases, and worked across application and cloud infrastructure. | 🟣 C# · .NET · Angular · REST APIs · Azure |
+| 📦 [C99 API Wrapper](https://github.com/JustinPooters/C99-Node-Wrapper) | A clean Node.js wrapper for the C99 API. | 🟢 Node.js · 🟨 JavaScript |
+| 🧺 [Herman Witgoed](https://hermanwitgoed.com/) | A service website with bookings, reviews, and WhatsApp integration. | 🌐 HTML/CSS · 🟨 JavaScript · 🟢 Node.js |
+| 🏠 [JXHQ](https://jxhq.net/) | My self-hosted developer home and collection of client work and experiments. | 🎨 Tailwind · 🟨 JavaScript · 🐳 CapRover |
+| 🪵 [Requestlogger](https://github.com/JustinPooters/Requestlogger) | A focused utility for logging incoming request data. | 🟢 Node.js · 🟨 JavaScript |
 
----
+There are more experiments on [JXHQ](https://jxhq.net/#projects)—including tools that started with _"this should only take an evening."_
 
-### 🤝 Let’s Connect!
+## 🧠 A little more about me
 
-<p align="center">
-  <a href="https://justinp.dev"><img src="https://img.shields.io/badge/Website-justinp.dev-blue?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
-  <a href="https://x.com/justinpooters"><img src="https://img.shields.io/badge/Twitter-@justinpooters-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/justinpooters/"><img src="https://img.shields.io/badge/LinkedIn-Justin%20Pooters-blue?style=for-the-badge&logo=linkedin" /></a>
-</p>
+- 🤖 I enjoy automating work nobody should have to repeat manually.
+- 🔧 I like infrastructure, but I also want to know what the application is doing.
+- 🏡 I self-host things because apparently relaxing hobbies were unavailable.
+- 🐛 Every problem is a software problem if you misunderstand it confidently enough.
+- ☕ Current coffee-to-code conversion efficiency: classified.
 
----
+## 🌍 Find me elsewhere
 
-<p align="center">
-  💬 <em>“Ship it. If it breaks, we’ll learn something new.”</em> 🚀
-</p>
+[Portfolio](https://justinp.dev/) · [JXHQ](https://jxhq.net/) · [LinkedIn](https://linkedin.com/in/justinpooters) · [Email](mailto:site@pooters.me)
+
+<sub>Built with a shitton of coffee. No uptime guarantees were harmed in the making of this profile.</sub>
+
